@@ -9,6 +9,7 @@ Em seguida, o sistema deve gerar um **relatório de folha de pagamento** utiliza
 ---
 
 ![Class Diagram](img.jpg)
+![Attention](estrutura.jpg)
 
 ## Estrutura de Classes
 
